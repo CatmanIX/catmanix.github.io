@@ -1,0 +1,16 @@
+# Project pages on Github
+CHAOS/
+
+# SASS stuff
+.sass-cache/
+rem
+
+# OS garbage
+.DS_Store
+.DS_Store?
+._*
+_*
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
